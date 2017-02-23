@@ -39,14 +39,14 @@ For example, input `farc.py message.bin` in the console, `message.lst` should be
 命令行模式的文本导出/导入工具
 用法:
 ```
-  -x, --extract          从二进制文件导出文本
-  -c, --create           创建二进制文本文件
-  -s, --script            指定lua脚本文件路径
+  -x, --extract        从二进制文件导出文本
+  -c, --create         创建二进制文本文件
+  -s, --script         指定lua脚本文件路径
   -b, --binary-file    指定二进制文件路径
-  -t, --text-file         指定文本文件路径
-  -o, --output          指定输出文件路径
-  --ctrl                     指定外部控制符文件
-  -h, --help              显示帮助
+  -t, --text-file      指定文本文件路径
+  -o, --output         指定输出文件路径
+  --ctrl               指定外部控制符文件
+  -h, --help           显示帮助
 ```
 
 - BPXJ Text Export
