@@ -5,7 +5,7 @@ Pokemon Super Mystery Dungeon Tools<br>
 ## Describe & Usage
 - msgtool
 Message export/import console tool. 
-Usage:
+#### Usage:
 ```
   -x, --extract        Extract binary talk messages.
   -c, --create         Create binary talk messages.
@@ -37,7 +37,7 @@ For example, input `farc.py message.bin` in the console, `message.lst` should be
 ## 简介和使用方法
 - msgtool
 命令行模式的文本导出/导入工具
-用法:
+#### 用法:
 ```
   -x, --extract        从二进制文件导出文本
   -c, --create         创建二进制文本文件
